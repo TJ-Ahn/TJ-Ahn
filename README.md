@@ -1,11 +1,13 @@
-### Hi there 👋
-
 ### Let me introduce myself
 
 Hi, I am TJ-Ahn
+
 I am a AI data scientist usin python.
+
 I love python so much
+
 I am learning about git and github.
+
 <!--
 **TJ-Ahn/TJ-Ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
