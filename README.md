@@ -8,6 +8,19 @@ I love python so much
 
 I am learning about git and github.
 
+### I can speak..
+
+-Korean
+-English
+-Thai
+-Python
+-Golang
+-Japanese
+-French
+
+
+
+
 <!--
 **TJ-Ahn/TJ-Ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
